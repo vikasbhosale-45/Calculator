@@ -17,4 +17,4 @@ To run the calculator app locally, you need to clone this repo and open the inde
 
 ## Author
 
-This project is created by [vikas bhosale]([https://github.com/KhaledAshrafH](https://github.com/vikasbhosale-45). You can contact me at [My Email](vikasbhosale161@gmail.com) or follow/add me on [My Facebook](https://www.facebook.com/vikasbhosale45/).
+This project is created by [vikas bhosale](https://github.com/vikasbhosale-45). You can contact me at [My Email](vikasbhosale161@gmail.com) or follow/add me on [My Facebook](https://www.facebook.com/vikasbhosale45/).
