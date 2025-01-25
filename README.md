@@ -2,7 +2,7 @@
 
 This is a simple calculator app that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built with HTML, CSS, and JavaScript only. No frameworks or libraries are used.
 
-<img src="Screenshot.png" alt="Calculator" width="400" height="400">
+<img src="Screenshot.png" alt="Calculator" width="700" height="400">
 
 ## Features
 
